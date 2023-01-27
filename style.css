@@ -1,0 +1,159 @@
+.top_container{
+  background-color: #b8c72a;
+  height: 90%;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+  
+}
+body{
+  margin: 0;
+  text-align: center;
+  
+}
+h1{
+  width: 20%;
+  margin-top: 0px;
+  margin: 0 auto 0 auto;
+  font-size: 60px;
+  font-family: 'Pacifico', cursive;
+  
+
+  color: #402fb3;
+
+}
+
+
+.bottom_cloud{ 
+  position: absolute;
+  left: 12%;
+  
+
+} .Second_bottom_cloud{
+  position: absolute;
+  right: 30%;
+}
+.top_cloud{ 
+  position: absolute;
+  
+ right: 300px;
+ top: 50px;
+
+} .Second_top_cloud{
+  position: absolute;
+  left: 30%;
+  top: 5%;
+}
+.underline{
+  text-decoration: underline;
+  color: black;
+}
+.para{
+  position: absolute;
+  right: 45%;
+  top: 28%;
+  color: #402fb3;
+}
+.profile{
+  background-image: linear-gradient(to right, #3822a4, #FC7300);
+  padding-top: 30px;
+}
+.middle-container{
+  text-align: center;
+  margin: 0;
+  
+}
+.skills{
+  background-image: linear-gradient(to right, #42b73b, #810CA8);
+ 
+}
+.h2_skill{
+  background-color: chartreuse;
+}
+.contact-me{
+  background-image: linear-gradient(to right, rgb(215, 19, 28), rgb(161, 217, 31));
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.python-image{
+  float: left;
+  margin-right: 30px;
+  
+}
+.c-image{
+  float: right;
+  margin-left: 30px;
+  
+}
+/* .skill-para-first{
+  clear: left;
+}.skill-para-second{
+  clear: right;
+} */
+hr{
+  border: dotted #0dbebe 6px;
+
+  width: 40px;
+  border-bottom: none;
+}
+.btn {
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFAE00;
+  font-family: Trebuchet MS;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 5px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: inset #FFAE00 3px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #F63DA2);
+  background-image: -moz-linear-gradient(top, #1E62D0, #F63DA2);
+  background-image: -ms-linear-gradient(top, #1E62D0, #F63DA2);
+  background-image: -o-linear-gradient(top, #1E62D0, #F63DA2);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #F63DA2);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #6d3db0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.footer-link{
+  padding: 0px 20px;
+  margin: 0px 10px;
+  text-decoration: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:#1ac0aa;
+  border-style: inset;
+  
+}
+.footer-link:hover{
+  color:azure;
+  
+}
